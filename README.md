@@ -2,8 +2,11 @@
 Scientific paper that studies the impact of different machine learning algorithms for the prediction of diagnosis and dysplasia Status
 
 We implemnt the following algorithms: 
+
 -ARTIFICIAL NEURAL NETWORK (ANN) ALGORITHM
+
 -DECISION TREE (DT) ALGORITHM
+
 -K-NEAREST NEIGHBORS (K-NN) ALGORITHM
 
 
